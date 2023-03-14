@@ -1,0 +1,38 @@
+[
+{
+    "Scaler": "Standard",
+    "family_min_samples_percentage": 5,
+    "original_number_of_clusters": 4,
+    "eps_value": 0.1,
+    "min_samples": 5,
+    "number_of_clusters": 9,
+    "number_of_noise_samples": 72,
+    "adjusted_rand_index": 0.001,
+    "adjusted_mutual_info_score": 0.009,
+    "homogeneity_score": 0.330,
+    "completeness_score": 0.999,
+    "v_measure_score": 0.497,
+    "fowlkes_mallows_score": 0.0282,
+    "silhouette_coefficient": 0.653,
+    "calinski_harabasz_score": 10.81,
+    "davies_bouldin_score": 1.70
+},
+    {
+    "Scaler": "Standard",
+    "family_min_samples_percentage": 5,
+    "original_number_of_clusters": 4,
+    "eps_value": 0.1,
+    "min_samples": 10,
+    "number_of_clusters": 6,
+    "number_of_noise_samples": 89,
+    "adjusted_rand_index": 0.0010853141067694784,
+    "adjusted_mutual_info_score": 0.008123099381390967,
+    "homogeneity_score": 0.29488451142983285,
+    "completeness_score": 0.9999999999999996,
+    "v_measure_score": 0.4554607130240773,
+    "fowlkes_mallows_score": 0.026360160288337424,
+    "silhouette_coefficient": 0.5585294202641657,
+    "calinski_harabasz_score": 12.528464721749081,
+    "davies_bouldin_score": 1.7608591923293118
+}
+    ]
